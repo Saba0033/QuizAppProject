@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 101,
+    "Type": 0,
+    "Name": "Alice",
+    "Password": "123",
+    "Record": 100,
+    "QuizIds": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 102,
+    "Type": 0,
+    "Name": "Bob",
+    "Password": "123",
+    "Record": 80,
+    "QuizIds": [
+      4,
+      5
+    ]
+  },
+  {
+    "Id": 103,
+    "Type": 0,
+    "Name": "Charlie",
+    "Password": "123",
+    "Record": 100,
+    "QuizIds": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "Id": 104,
+    "Type": 0,
+    "Name": "Diana",
+    "Password": "123",
+    "Record": 90,
+    "QuizIds": [
+      9
+    ]
+  },
+  {
+    "Id": 105,
+    "Type": 0,
+    "Name": "Edward",
+    "Password": "123",
+    "Record": 85,
+    "QuizIds": [
+      10,
+      11
+    ]
+  }
+]

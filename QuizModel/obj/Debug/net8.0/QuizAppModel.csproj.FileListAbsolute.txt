@@ -1,0 +1,11 @@
+C:\Users\Saba\Desktop\QuizApp\QuizModel\bin\Debug\net8.0\QuizAppModel.deps.json
+C:\Users\Saba\Desktop\QuizApp\QuizModel\bin\Debug\net8.0\QuizAppModel.dll
+C:\Users\Saba\Desktop\QuizApp\QuizModel\bin\Debug\net8.0\QuizAppModel.pdb
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.AssemblyInfoInputs.cache
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.AssemblyInfo.cs
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.csproj.CoreCompileInputs.cache
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.dll
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\refint\QuizAppModel.dll
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\QuizAppModel.pdb
+C:\Users\Saba\Desktop\QuizApp\QuizModel\obj\Debug\net8.0\ref\QuizAppModel.dll

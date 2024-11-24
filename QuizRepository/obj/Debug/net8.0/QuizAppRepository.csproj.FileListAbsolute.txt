@@ -1,0 +1,15 @@
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\bin\Debug\net8.0\QuizAppRepository.deps.json
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\bin\Debug\net8.0\QuizAppRepository.dll
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\bin\Debug\net8.0\QuizAppRepository.pdb
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\bin\Debug\net8.0\QuizAppModel.dll
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\bin\Debug\net8.0\QuizAppModel.pdb
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.csproj.AssemblyReference.cache
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.AssemblyInfoInputs.cache
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.AssemblyInfo.cs
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.csproj.CoreCompileInputs.cache
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppR.D95EBD5D.Up2Date
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.dll
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\refint\QuizAppRepository.dll
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\QuizAppRepository.pdb
+C:\Users\Saba\Desktop\QuizApp\QuizRepository\obj\Debug\net8.0\ref\QuizAppRepository.dll

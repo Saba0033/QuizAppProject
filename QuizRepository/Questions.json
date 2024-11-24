@@ -1,0 +1,717 @@
+[
+  {
+    "Text": "What is 2 * 2?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "CorrectAnswerIndex": 3,
+    "Id": 1,
+    "QuizId": 1,
+    "Type": 2
+  },
+  {
+    "Text": "What is 3 * 3?",
+    "Options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "CorrectAnswerIndex": 3,
+    "Id": 2,
+    "QuizId": 1,
+    "Type": 2
+  },
+  {
+    "Text": "What is the square root of 16?",
+    "Options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 3,
+    "QuizId": 1,
+    "Type": 2
+  },
+  {
+    "Text": "What is 10 / 2?",
+    "Options": [
+      "2",
+      "5",
+      "10",
+      "20"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 4,
+    "QuizId": 1,
+    "Type": 2
+  },
+  {
+    "Text": "What is 5 - 3?",
+    "Options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 5,
+    "QuizId": 1,
+    "Type": 2
+  },
+  {
+    "Text": "What planet is known as the Red Planet?",
+    "Options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 6,
+    "QuizId": 2,
+    "Type": 2
+  },
+  {
+    "Text": "What is the chemical symbol for water?",
+    "Options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 7,
+    "QuizId": 2,
+    "Type": 2
+  },
+  {
+    "Text": "What gas do plants use for photosynthesis?",
+    "Options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 8,
+    "QuizId": 2,
+    "Type": 2
+  },
+  {
+    "Text": "What is the hottest planet in the solar system?",
+    "Options": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 9,
+    "QuizId": 2,
+    "Type": 2
+  },
+  {
+    "Text": "What is the main gas in the Earth\u0027s atmosphere?",
+    "Options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 10,
+    "QuizId": 2,
+    "Type": 2
+  },
+  {
+    "Text": "Who discovered America?",
+    "Options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "James Cook"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 11,
+    "QuizId": 3,
+    "Type": 2
+  },
+  {
+    "Text": "In what year did World War II begin?",
+    "Options": [
+      "1936",
+      "1937",
+      "1938",
+      "1939"
+    ],
+    "CorrectAnswerIndex": 3,
+    "Id": 12,
+    "QuizId": 3,
+    "Type": 2
+  },
+  {
+    "Text": "Who was the first President of the United States?",
+    "Options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 13,
+    "QuizId": 3,
+    "Type": 2
+  },
+  {
+    "Text": "What was the name of the ship on which the Pilgrims traveled to America?",
+    "Options": [
+      "Santa Maria",
+      "Mayflower",
+      "Endeavour",
+      "Beagle"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 14,
+    "QuizId": 3,
+    "Type": 2
+  },
+  {
+    "Text": "What year did the Titanic sink?",
+    "Options": [
+      "1910",
+      "1911",
+      "1912",
+      "1913"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 15,
+    "QuizId": 3,
+    "Type": 2
+  },
+  {
+    "Text": "What is the tallest mountain in the world?",
+    "Options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Mount Kilimanjaro"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 16,
+    "QuizId": 4,
+    "Type": 2
+  },
+  {
+    "Text": "Which element has the chemical symbol O?",
+    "Options": [
+      "Oxygen",
+      "Osmium",
+      "Ozone",
+      "Opium"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 17,
+    "QuizId": 4,
+    "Type": 2
+  },
+  {
+    "Text": "Which animal is known as the king of the jungle?",
+    "Options": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Bear"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 18,
+    "QuizId": 4,
+    "Type": 2
+  },
+  {
+    "Text": "What is the largest ocean on Earth?",
+    "Options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean",
+      "Pacific Ocean"
+    ],
+    "CorrectAnswerIndex": 3,
+    "Id": 19,
+    "QuizId": 4,
+    "Type": 2
+  },
+  {
+    "Text": "Which of the following is not a primary color?",
+    "Options": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Blue"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 20,
+    "QuizId": 4,
+    "Type": 2
+  },
+  {
+    "Text": "What is the capital of France?",
+    "Options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Madrid"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 21,
+    "QuizId": 5,
+    "Type": 2
+  },
+  {
+    "Text": "Who painted the Mona Lisa?",
+    "Options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 22,
+    "QuizId": 5,
+    "Type": 2
+  },
+  {
+    "Text": "What is the square of 5?",
+    "Options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 23,
+    "QuizId": 5,
+    "Type": 2
+  },
+  {
+    "Text": "What is the largest planet in our solar system?",
+    "Options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 24,
+    "QuizId": 5,
+    "Type": 2
+  },
+  {
+    "Text": "Who is the author of the Harry Potter series?",
+    "Options": [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "C.S. Lewis"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 25,
+    "QuizId": 5,
+    "Type": 2
+  },
+  {
+    "Text": "What is the smallest country in the world?",
+    "Options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 26,
+    "QuizId": 6,
+    "Type": 2
+  },
+  {
+    "Text": "What is the longest river in the world?",
+    "Options": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 27,
+    "QuizId": 6,
+    "Type": 2
+  },
+  {
+    "Text": "What is the name of the nearest star to Earth?",
+    "Options": [
+      "Proxima Centauri",
+      "Alpha Centauri",
+      "Sirius",
+      "Betelgeuse"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 28,
+    "QuizId": 6,
+    "Type": 2
+  },
+  {
+    "Text": "Which country is known for the Eiffel Tower?",
+    "Options": [
+      "Italy",
+      "Germany",
+      "France",
+      "Spain"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 29,
+    "QuizId": 6,
+    "Type": 2
+  },
+  {
+    "Text": "Who invented the light bulb?",
+    "Options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 30,
+    "QuizId": 6,
+    "Type": 2
+  },
+  {
+    "Text": "What is the hardest natural substance on Earth?",
+    "Options": [
+      "Gold",
+      "Diamond",
+      "Iron",
+      "Platinum"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 31,
+    "QuizId": 7,
+    "Type": 2
+  },
+  {
+    "Text": "Which country is famous for its pyramids?",
+    "Options": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "China"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 32,
+    "QuizId": 7,
+    "Type": 2
+  },
+  {
+    "Text": "Which of these is a mammal?",
+    "Options": [
+      "Shark",
+      "Penguin",
+      "Dolphin",
+      "Crocodile"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 33,
+    "QuizId": 7,
+    "Type": 2
+  },
+  {
+    "Text": "What is the main ingredient in guacamole?",
+    "Options": [
+      "Tomato",
+      "Avocado",
+      "Lime",
+      "Garlic"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 34,
+    "QuizId": 7,
+    "Type": 2
+  },
+  {
+    "Text": "What is the capital of Japan?",
+    "Options": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Hanoi"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 35,
+    "QuizId": 7,
+    "Type": 2
+  },
+  {
+    "Text": "What is the largest island in the world?",
+    "Options": [
+      "Australia",
+      "Greenland",
+      "New Guinea",
+      "Borneo"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 36,
+    "QuizId": 8,
+    "Type": 2
+  },
+  {
+    "Text": "Which element is most abundant in the Earth\u2019s crust?",
+    "Options": [
+      "Iron",
+      "Aluminum",
+      "Oxygen",
+      "Silicon"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 37,
+    "QuizId": 8,
+    "Type": 2
+  },
+  {
+    "Text": "What is the symbol for the chemical element gold?",
+    "Options": [
+      "Ag",
+      "Au",
+      "Pb",
+      "Fe"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 38,
+    "QuizId": 8,
+    "Type": 2
+  },
+  {
+    "Text": "What is the name of the longest running television series in the world?",
+    "Options": [
+      "The Simpsons",
+      "Friends",
+      "The Office",
+      "The Ellen DeGeneres Show"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 39,
+    "QuizId": 8,
+    "Type": 2
+  },
+  {
+    "Text": "In which year did man land on the moon?",
+    "Options": [
+      "1967",
+      "1968",
+      "1969",
+      "1970"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 40,
+    "QuizId": 8,
+    "Type": 2
+  },
+  {
+    "Text": "Who wrote \u0027Pride and Prejudice\u0027?",
+    "Options": [
+      "Charlotte Bront\u00EB",
+      "Jane Austen",
+      "Emily Dickinson",
+      "Virginia Woolf"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 41,
+    "QuizId": 9,
+    "Type": 2
+  },
+  {
+    "Text": "What is the main theme of \u00271984\u0027 by George Orwell?",
+    "Options": [
+      "Utopia",
+      "Social Injustice",
+      "Totalitarianism",
+      "Romance"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 42,
+    "QuizId": 9,
+    "Type": 2
+  },
+  {
+    "Text": "Which novel is set in a dystopian future where books are banned?",
+    "Options": [
+      "Brave New World",
+      "Fahrenheit 451",
+      "The Handmaid\u0027s Tale",
+      "1984"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 43,
+    "QuizId": 9,
+    "Type": 2
+  },
+  {
+    "Text": "Who wrote \u0027Moby-Dick\u0027?",
+    "Options": [
+      "Mark Twain",
+      "Herman Melville",
+      "Charles Dickens",
+      "Leo Tolstoy"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 44,
+    "QuizId": 9,
+    "Type": 2
+  },
+  {
+    "Text": "What is the name of the fictional wizarding school in \u0027Harry Potter\u0027?",
+    "Options": [
+      "Hogwarts",
+      "Narnia",
+      "Xavier\u0027s Institute",
+      "Springfield High"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 45,
+    "QuizId": 9,
+    "Type": 2
+  },
+  {
+    "Text": "Which animal is the largest mammal on Earth?",
+    "Options": [
+      "Elephant",
+      "Blue Whale",
+      "Shark",
+      "Giraffe"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 46,
+    "QuizId": 10,
+    "Type": 2
+  },
+  {
+    "Text": "Which country is famous for kangaroos?",
+    "Options": [
+      "South Africa",
+      "Australia",
+      "India",
+      "Brazil"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 47,
+    "QuizId": 10,
+    "Type": 2
+  },
+  {
+    "Text": "Which of these is an herb?",
+    "Options": [
+      "Carrot",
+      "Cilantro",
+      "Potato",
+      "Apple"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 48,
+    "QuizId": 10,
+    "Type": 2
+  },
+  {
+    "Text": "What is the largest desert in the world?",
+    "Options": [
+      "Sahara",
+      "Arabian",
+      "Gobi",
+      "Antarctic"
+    ],
+    "CorrectAnswerIndex": 3,
+    "Id": 49,
+    "QuizId": 10,
+    "Type": 2
+  },
+  {
+    "Text": "What is the fastest land animal?",
+    "Options": [
+      "Lion",
+      "Cheetah",
+      "Elephant",
+      "Horse"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 50,
+    "QuizId": 10,
+    "Type": 2
+  },
+  {
+    "Text": "Which of these countries is in Africa?",
+    "Options": [
+      "Brazil",
+      "India",
+      "Egypt",
+      "China"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 51,
+    "QuizId": 11,
+    "Type": 2
+  },
+  {
+    "Text": "Which of these is a country in South America?",
+    "Options": [
+      "Mexico",
+      "Argentina",
+      "Spain",
+      "Canada"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 52,
+    "QuizId": 11,
+    "Type": 2
+  },
+  {
+    "Text": "What is the capital of Canada?",
+    "Options": [
+      "Ottawa",
+      "Toronto",
+      "Montreal",
+      "Vancouver"
+    ],
+    "CorrectAnswerIndex": 0,
+    "Id": 53,
+    "QuizId": 11,
+    "Type": 2
+  },
+  {
+    "Text": "Which continent is Egypt located on?",
+    "Options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "CorrectAnswerIndex": 1,
+    "Id": 54,
+    "QuizId": 11,
+    "Type": 2
+  },
+  {
+    "Text": "What is the smallest continent by land area?",
+    "Options": [
+      "Asia",
+      "Europe",
+      "Australia",
+      "Antarctica"
+    ],
+    "CorrectAnswerIndex": 2,
+    "Id": 55,
+    "QuizId": 11,
+    "Type": 2
+  }
+]

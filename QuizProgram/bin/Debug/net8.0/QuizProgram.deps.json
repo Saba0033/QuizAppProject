@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuizProgram/1.0.0": {
+        "dependencies": {
+          "QuizAppModel": "1.0.0",
+          "QuizAppRepository": "1.0.0"
+        },
+        "runtime": {
+          "QuizProgram.dll": {}
+        }
+      },
+      "QuizAppModel/1.0.0": {
+        "runtime": {
+          "QuizAppModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QuizAppRepository/1.0.0": {
+        "dependencies": {
+          "QuizAppModel": "1.0.0"
+        },
+        "runtime": {
+          "QuizAppRepository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizAppModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizAppRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
